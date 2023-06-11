@@ -24,3 +24,5 @@ MRImageGBM is also implemented as a blender addon to support 3D viewing of segme
 <img src='images/screenshot2.png' width="70%"/>
 </div>
 <br/>
+
+To run on your local machine, please download the "GUI code (c++ source)" folder and compile and build using the relevant version of QT Creator.
