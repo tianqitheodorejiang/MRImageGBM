@@ -13,6 +13,7 @@ The user interface, written in C++ using QT creator, features the three separate
 
 <br/>
 <div align="center">
+<img src='images/screenshot1.png' width="70%"/>
 <img src='images/screenshot3.png' width="70%"/>
 </div>
 <br/>
